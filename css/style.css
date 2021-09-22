@@ -1,0 +1,50 @@
+/* * GENERICS */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: rgba(0,0,0,0.87);
+    font-size: 14px;
+}
+
+h2, h3 {
+    color: #3c4043;
+    font-weight: 500;
+}
+
+h2 {
+    font-size: 24px;
+    line-height: 32px;
+    padding: 64px 0 0 0;
+}
+
+h3 {
+    font-size: 18px;
+    line-height: 26px;
+    margin: 0;
+    padding: 52px 0 0 0;
+}
+
+p {
+    padding-top: 20px;
+}
+
+p, li {
+    line-height: 24px;
+}
+
+ol {
+    margin: 0 0 0 16px;
+}
+
+li {
+    padding-top: 12px;
+    padding-left: 16px;
+}
+
+
+/* * UTILITIES */ 
+
+.container  {
+    max-width: 1000px;
+    margin: 0 auto;
+}
