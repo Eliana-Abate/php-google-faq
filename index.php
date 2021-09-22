@@ -52,8 +52,17 @@
                 <span><i class="fas fa-user-circle fa-2x"></i></span>
             </div>
         </div>
-        
+
         <div id='bottom-header'>
+            <nav>
+                <ul>
+                    <li>Introduzione</li>
+                    <li>Norme sulla Privacy</li>
+                    <li>termini di servizio</li>
+                    <li>Tecnologie</li>
+                    <li class="active">Domande frequenti</li>
+                </ul>
+            </nav>
 
         </div>
 
