@@ -100,17 +100,8 @@
                         <option value="Spagnolo">Spagnolo</option>
                     </select>
                 </div>
-
-                
-
             </div>
-
-            
-                
-            
-
         </div>
-
     </footer>
 </body>
 </html>
